@@ -1,9 +1,9 @@
 {
-  "deploymentTarget": "12",
+  "deploymentTarget": "15",
   "dependencies-pods": [
     {
       "name": "CL_ShanYanSDK",
-      "version": "~> 2.3.7.4"
+      "version": "~> 2.3.7.7"
     }
   ]
 }
